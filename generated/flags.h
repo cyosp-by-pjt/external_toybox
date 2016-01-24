@@ -4404,7 +4404,8 @@
 #define TT this.stat
 #endif
 #define FLAG_f (1<<0)
-#define FLAG_c (1<<1)
+#define FLAG_t (1<<1)
+#define FLAG_c (1<<2)
 #endif
 
 #ifdef FOR_strings
